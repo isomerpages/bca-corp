@@ -37,3 +37,5 @@ A digital twin of BCA Academy’s Academic Tower was developed in the programme,
 **Tap on Smart FM Solutions Today**
 
 The use of Smart FM technologies will be key in helping the Built Environment stay future-ready. Processes and people must be considered to fully harness the potential of Smart FM technologies in supporting data-driven decisions, creating change, and improving management outcomes for Singapore’s buildings and facilities. Read more about how the FM sector is driving transformation through Smart FM technologies [here](https://www1.bca.gov.sg/buildsg/facilities-management-fm/smart-facilities-management-fm).
+
+#smart_facilities_management
