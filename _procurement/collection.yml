@@ -2,6 +2,7 @@ collections:
   procurement:
     output: true
     order:
+      - Post Tender/Standard Consultancy Agreement.md
       - Post Tender/Public Sector Standard Conditions Of Contract (PSSCOC).md
       - Post Tender/.keep
       - Tender/Price Quality Method (PQM) Framework.md
