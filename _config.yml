@@ -2,7 +2,7 @@ title: BCA Corp
 url: https://www1.bca.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#d0021b"
+  primary-color: "#9e65d0"
   secondary-color: "#4373d6"
   media-colors:
     - title: media-color-one
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2lmns4btht6z6.amplifyapp.com
 prod: https://master.d2lmns4btht6z6.amplifyapp.com
 resources_name: buildsg
-shareicon: ""
+shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
