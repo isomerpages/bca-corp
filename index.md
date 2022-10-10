@@ -16,16 +16,16 @@ sections:
       key_highlights:
         - title: e-Services
           description: ""
-          url: ""
+          url: https://www1.bca.gov.sg/e-services
         - title: Built Environment Industry Transformation Map (ITM)
           description: ""
-          url: https://google.com
+          url: https://www1.bca.gov.sg/buildsg/built-environment-industry-transformation-map
         - title: BCA Awards
           description: ""
-          url: https://gmail.com
+          url: https://www1.bca.gov.sg/buildsg/bca-awards
         - title: Guidebooks
           description: ""
-          url: /privacy/
+          url: https://www1.bca.gov.sg/about-us/news-and-publications/publications-reports/guidebooks
   - resources:
       title: BuildSG Magazine
       subtitle: Resources
