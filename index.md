@@ -29,12 +29,4 @@ sections:
   - resources:
       title: BuildSG Magazine
       subtitle: Resources
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
