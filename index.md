@@ -36,13 +36,13 @@ sections:
       button: Transact with US
       url: https://www.bca.gov.sg/cwrs/
       alt: CRWS
-      image: /images/Homepage/crws.png
+      image: /images/Homepage/crws1.png
   - infopic:
       title: e-Services
       subtitle: Popular e-services
       description: Building Management and Strata Management (BMSM)
       button: Transact with US
       url: https://www.bca.gov.sg/bmsm_eservice/
-      image: /images/Homepage/bmsm.png
+      image: /images/Homepage/bmsm1.png
       alt: BMSM
 ---
