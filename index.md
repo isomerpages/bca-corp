@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: BCA Corp
-description: An Isomer site of the Singapore Government
+description: BCA Corporate website
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -46,4 +46,5 @@ sections:
       image: /images/bmsm.png
       alt: BMSM
 ---
+
 
