@@ -8,6 +8,12 @@ links:
     collection: example-folder
   - title: Procurement
     url: https://www1.bca.gov.sg/procurement/pre-tender-stage
-    sublinks: []
-  - title: Procurement
-    collection: example-folder
+    sublinks:
+      - title: Pre-Tender Stage
+        url: https://www1.bca.gov.sg/procurement/pre-tender-stage
+      - title: Tender Stage
+        url: https://www1.bca.gov.sg/procurement/tender-stage
+      - title: Post-Tender Stage
+        url: https://www1.bca.gov.sg/procurement/post-tender-stage
+  - title: BuildSG
+    resource_room: true
