@@ -35,6 +35,6 @@ sections:
       description: Construction Workforce Registration  System (CWRS)
       button: FIND OUT MORE
       url: https://www.bca.gov.sg/cwrs/
-      alt: Image alt text
+      alt: CRWS
+      image: /images/crws.png
 ---
-
