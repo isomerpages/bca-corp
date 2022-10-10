@@ -17,3 +17,5 @@ links:
         url: https://www1.bca.gov.sg/procurement/post-tender-stage
   - title: BuildSG
     resource_room: true
+  - title: PROCUREMENT
+    collection: procurement
