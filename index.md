@@ -32,9 +32,17 @@ sections:
   - infopic:
       title: e-Services
       subtitle: Popular e-services
-      description: Construction Workforce Registration  System (CWRS)
-      button: FIND OUT MORE
+      description: Construction Workforce Registration System (CWRS)
+      button: Transact with US
       url: https://www.bca.gov.sg/cwrs/
       alt: CRWS
       image: /images/crws.png
+  - infopic:
+      title: e-Services
+      subtitle: Popular e-services
+      description: Building Management and Strata Management (BMSM)
+      button: Transact with US
+      url: https://www.bca.gov.sg/bmsm_eservice/
+      image: /images/bmsm.png
+      alt: BMSM
 ---
