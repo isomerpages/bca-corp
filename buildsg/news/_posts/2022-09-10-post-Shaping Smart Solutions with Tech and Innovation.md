@@ -14,7 +14,7 @@ Smart Facilities Management (FM), which integrates systems, processes, technolog
 
 In January 2019, Yale-NUS College rolled out a pilot of a mobile application called MyInfra FM App, created with Smart Facilities Management (FM) technologies that allows users to conveniently and immediately request for support or report building defects to the campus’ infrastructure team.
 
-[undefined](https://www1.bca.gov.sg/buildsg-emag/articles/shaping-smart-solutions-with-tech-and-innovation)
+![HDB](/images/News/n1.png)
 
 
 The Yale-NUS College houses three residential colleges where students live and study alongside their professors and peers. Its Infrastructure, Safety & Security Office receives 6,000 feedback requests a year ranging from event support or technical issues in the building, and staff would take an average time of 14 days to resolve cases.
@@ -25,7 +25,7 @@ Through the app, users can take photos of the reported issue, categorise their f
 
 Aside from better building management, adopting Smart FM solutions can also contribute to energy efficient buildings in Singapore.
 
-![](/images/News/n2.png)
+![N2](/images/News/n2.png)
 
 
 First launched in 2016, the Green Buildings Innovation Cluster (GBIC) Programme is an integrated research development and demonstration (RD&D) hub that aims to accelerate the development and adoption of energy efficient technologies and solutions for building development in Singapore.
