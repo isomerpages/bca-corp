@@ -1,0 +1,4 @@
+collections:
+  procurement:
+    output: true
+    order: []
