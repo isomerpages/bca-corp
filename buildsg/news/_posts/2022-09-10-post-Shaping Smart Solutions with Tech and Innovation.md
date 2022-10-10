@@ -14,7 +14,7 @@ Smart Facilities Management (FM), which integrates systems, processes, technolog
 
 In January 2019, Yale-NUS College rolled out a pilot of a mobile application called MyInfra FM App, created with Smart Facilities Management (FM) technologies that allows users to conveniently and immediately request for support or report building defects to the campus’ infrastructure team.
 
-![](/images/n1.png)
+[undefined](https://www1.bca.gov.sg/buildsg-emag/articles/shaping-smart-solutions-with-tech-and-innovation))
 
 
 The Yale-NUS College houses three residential colleges where students live and study alongside their professors and peers. Its Infrastructure, Safety & Security Office receives 6,000 feedback requests a year ranging from event support or technical issues in the building, and staff would take an average time of 14 days to resolve cases.
