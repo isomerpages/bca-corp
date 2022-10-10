@@ -7,6 +7,8 @@ description: Manpower, Digitalisation, Productivity
 image: ""
 ---
 Long before COVID-19 turbocharged the global digital shift, the top brass of ONG&ONG Group had already decided to make the switch. It was July 2018, and the leadership team was huddled in a conference room in Ho Chi Minh City during their annual Management Retreat, pondering the architecture company’s future.
+![](/images/Case%20Studies/cs1.png)
+_Mr Ong Tze Boon, Group Executive Chairman, ONG&ONG, at their Annual Management Retreat 2018_
 
 “The discussion was (about being) a disruptor or being disrupted,” recalled Mr Ashvinkumar Kantilal, its Group Chief Executive Officer. “All the directors within the ONG&ONG Group collectively decided that we would be the disruptors, the first-movers in the transformation journey.”
 
