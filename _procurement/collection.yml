@@ -2,6 +2,7 @@ collections:
   procurement:
     output: true
     order:
+      - Post Tender/.keep
       - Tender/Price Quality Method (PQM) Framework.md
       - Tender/Early Contractor Involvement (ECI).md
       - Tender/.keep
