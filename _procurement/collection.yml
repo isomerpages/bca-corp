@@ -2,7 +2,7 @@ collections:
   procurement:
     output: true
     order:
-      - Pre Tender/Public Sector Panels of Consultants (PSPC).md
-      - Pre Tender/Contractors Registration System (CRS).md
-      - Pre Tender/Builders Licensing Scheme (BLS).md
       - Pre Tender/.keep
+      - Pre Tender/Builders Licensing Scheme (BLS).md
+      - Pre Tender/Contractors Registration System (CRS).md
+      - Pre Tender/Public Sector Panels of Consultants (PSPC).md
