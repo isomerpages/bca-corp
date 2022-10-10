@@ -4,8 +4,6 @@ links:
     url: https://www1.bca.gov.sg/buildsg/buildsg-movement
   - title: Regulatory info
     url: https://www1.bca.gov.sg/regulatory-info/amusement-rides
-  - title: Example Folder
-    collection: example-folder
   - title: Procurement
     url: https://www1.bca.gov.sg/procurement/pre-tender-stage
     sublinks:
