@@ -1,4 +1,5 @@
 collections:
   procurement:
     output: true
-    order: []
+    order:
+      - Pre Tender/.keep
