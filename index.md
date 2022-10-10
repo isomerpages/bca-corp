@@ -29,4 +29,11 @@ sections:
   - resources:
       title: BuildSG Magazine
       subtitle: Resources
+  - infopic:
+      title: e-Services
+      subtitle: Popular e-services
+      description: Construction Workforce Registration  System (CWRS)
+      button: FIND OUT MORE
+      url: https://www.bca.gov.sg/cwrs/
+      alt: Image alt text
 ---
