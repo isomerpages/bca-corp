@@ -26,4 +26,15 @@ sections:
         - title: Guidebooks
           description: Page A is important too
           url: /privacy/
+  - resources:
+      title: BuildSG Magazine
+      subtitle: Resources
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
