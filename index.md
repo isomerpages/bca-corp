@@ -15,7 +15,7 @@ sections:
       url: LEARN MORE
       key_highlights:
         - title: e-Services
-          description: Key Highlight description
+          description: ""
           url: ""
         - title: Built Environment Industry Transformation Map (ITM)
           description: ""
@@ -24,7 +24,7 @@ sections:
           description: ""
           url: https://gmail.com
         - title: Guidebooks
-          description: Page A is important too
+          description: ""
           url: /privacy/
   - resources:
       title: BuildSG Magazine
