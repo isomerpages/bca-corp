@@ -2,4 +2,5 @@ collections:
   procurement:
     output: true
     order:
+      - Pre Tender/Builders Licensing Scheme (BLS).md
       - Pre Tender/.keep
