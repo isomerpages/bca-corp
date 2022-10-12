@@ -4,11 +4,11 @@ permalink: /procurement/Pre-Tender/CRS/
 description: ""
 third_nav_title: Pre Tender
 ---
-| [Pre-Tender](/procurement/Pre-Tender/BLS) |  [Tender](/procurement/Tender/PQM/) | [Post-Tender](/procurement/Post-Tender/SCA/)
+| [Pre-Tender](/procurement/Pre-Tender/BLS) |  [Tender](/procurement/Tender/PQM/) | [Post-Tender](/procurement/Post-Tender/SCA)
 
 <button type="button"\>Click Me!</button>
 
-<label for="cars">Go to:</label> <select id="cars"> <option value="volvo">Volvo</option> <option value="saab">Saab</option> <option value="opel">Opel</option> <option value="audi">Audi</option> </select>
+<label for="cars">Go to:</label> <select id="cars"> <option value="/procurement/Pre-Tender/BLS">Pre-Tender</option> <option value="procurement/Tender/PQM"></option> Tender <option value="/procurement/Post-Tender/SCA">Post=Tender</optio> </select>
 
 ### **What is CRS**
 
