@@ -8,9 +8,6 @@ third_nav_title: Pre Tender
 
 
 
-
-
-
 ### **What is CRS**
 
 The Contractors Registration System (CRS) registers contractors providing construction and construction-related services for the public sector.  
@@ -27,8 +24,4 @@ There are a total of 65 workheads under the following 7 major groups of registra
 
 ---
 
-| ![](/images/hero-banner.png) | The Contractors Registration System (CRS) registers contractors providing construction and construction-related 
-
-
-
-
+| ![](/images/hero-banner.png) | The Contractors Registration System (CRS) registers contractors providing construction and construction-related
