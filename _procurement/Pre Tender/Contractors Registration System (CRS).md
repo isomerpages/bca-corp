@@ -10,9 +10,7 @@ third_nav_title: Pre Tender
 ### **What is CRS**
 
 
-| ![](/images/hero-banner.png) | 
-
-The Contractors Registration System (CRS) registers contractors providing construction and construction-related services for the public sector. |
+| ![](/images/hero-banner.png) | The Contractors Registration System (CRS) registers contractors providing construction and construction-related services for the public sector. |
 
 
 **Who is it for**
