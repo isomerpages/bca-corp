@@ -2,6 +2,7 @@ collections:
   procurement:
     output: true
     order:
+      - Test.md
       - Pre Tender/Test.md
       - Pre Tender/.keep
       - Pre Tender/Builders Licensing Scheme (BLS).md
