@@ -21,9 +21,7 @@ There are a total of 65 workheads under the following 7 major groups of registra
 ---
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| ![](/images/hero-banner.png) | The Contractors Registration System (CRS) registers contractors providing construction and construction-related services for the public sector. |
 
 
 <table><tr><td>![](/images/bcalogo.png)</td><td>The Contractors Registration System (CRS) registers contractors providing construction and construction-related services for the public sector.  </td></tr></table>
