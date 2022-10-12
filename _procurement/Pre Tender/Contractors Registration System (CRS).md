@@ -6,7 +6,9 @@ third_nav_title: Pre Tender
 ---
 | [Pre-Tender](/procurement/Pre-Tender/BLS) |  [Tender](/procurement/Tender/PQM/) | [Post-Tender](/procurement/Post-Tender/SCA/)
 
-<button type\="button"\>Click Me!</button\>
+<button type="button"\>Click Me!</button>
+
+<label for="cars">Go to:</label> <select id="cars"> <option value="volvo">Volvo</option> <option value="saab">Saab</option> <option value="opel">Opel</option> <option value="audi">Audi</option> </select>
 
 ### **What is CRS**
 
