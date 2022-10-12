@@ -8,7 +8,7 @@ third_nav_title: Pre Tender
 
 <button type="button"\>Click Me!</button>
 
-<label for="cars">Go to:</label> <select id="cars"> <option value="/procurement/Pre-Tender/BLS">Pre-Tender</option> <option value="procurement/Tender/PQM"></option> Tender <option value="/procurement/Post-Tender/SCA">Post=Tender</optio> </select>
+<label for="cars">Go to:</label> <select id="cars"> <option value="/procurement/Pre-Tender/BLS">Pre-Tender</option><option value="procurement/Tender/PQM">Tender</option> Tender <option value="/procurement/Post-Tender/SCA">Post=Tender</optio> </select>
 
 ### **What is CRS**
 
