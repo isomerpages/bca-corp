@@ -2,4 +2,4 @@ collections:
   public:
     output: true
     order:
-      - example-page.md
+      - Public.md
