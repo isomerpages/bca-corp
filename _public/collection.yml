@@ -2,4 +2,5 @@ collections:
   public:
     output: true
     order:
+      - Homeowners.md
       - General Public.md
