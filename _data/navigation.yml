@@ -15,3 +15,5 @@ links:
     resource_room: true
   - title: Feedback to Us
     url: https://www.bca.gov.sg/feedbackform/
+  - title: Public
+    collection: public
