@@ -21,7 +21,7 @@ Students interested in the BE sector may check with your school for relevant sch
 
 Firms interested to sponsor students may either contact the relevant IHLs directly, or email to bca_industry_ite@bca.gov.sg to be link up with ITE.
 
-Benefits
+#### Benefits
  Stage 1 (Full-time Study)
 
 $7,000 per annum
@@ -36,7 +36,7 @@ Industry-recognised training
 
 Stage 2 is applicable for FY15 - FY 20 cycle only. Terms and conditions apply.
 
-Tenable Institutions & Tenable ITE Courses
+#### Tenable Institutions & Tenable ITE Courses
 Local ITE Colleges
 
 Higher NITEC in Civil & Structural Engineering Design
@@ -52,7 +52,7 @@ NITEC in Mechanical Technology
 NITEC in Architectural Technology (previously known as NITEC in Space Design (Architecture))
 NITEC in Interior and Exhibition Design (previously known as NITEC in Space Design (Interior & Exhibition))
 
-### Industry Recognised Training Courses
+#### Industry Recognised Training Courses
 
 
 
@@ -378,18 +378,20 @@ NITEC in Interior and Exhibition Design (previously known as NITEC in Space Desi
 
 
 
-Eligibility
+#### Eligibility
 To be eligible for the scholarship, you must:
 
 Be a Singapore Citizen or Singapore Permanent Resident
 Have good academic GCE 'N', 'O' level or ITE results
 Have good CCA records 
-Conditions of Award
+
+
+#### Conditions of Award
 A minimum 2-year bond duration is required.
 
 The bond must be served after graduation or completion of National Service, if applicable. 
 
-Application
+#### Application
 Application for the 2022 cycle has closed and this is the last cycle for the programmes.
 All programmes under iBuildSG Scholarship and Sponsorship will cease thereafter.
 
@@ -398,10 +400,10 @@ Students interested in the BE sector may check with your school for relevant sch
 Firms interested to sponsor students may either contact the relevant IHLs directly, or email to bca_industry_ite@bca.gov.sg to be link up with ITE.
 
    
-Contact
+#### Contact
 For any enquiries, please email us at BCA_Industry_ITE@bca.gov.sg or call 1800 3425222.
 
-List of approved built environment firms for recipients to serve bond in:
+#### List of approved built environment firms for recipients to serve bond in:
 BCA Directory of Registered Contractors & Licensed Builders (CRS and BLS) [excl. SY,FM 02-04 workheads]
 Singapore Contractors Association Limited (SCAL) members [excl. SLOTS]
 Public Sector Panels of Consultants (PSPC)
@@ -416,7 +418,6 @@ Association of Property and Facility Managers (APFM)
 Singapore Green Building Council (SGBC)
 Singapore Institute of Building Limited (SIBL) [only enterprise members]
 Specialists Trade Alliance of Singapore (STAS)
-Employment update
-Recipients of the iBuildSG ITE Scholarship, please click here to update your employment status.
 
- 
+#### Employment update
+Recipients of the iBuildSG ITE Scholarship, please click here to update your employment status.
