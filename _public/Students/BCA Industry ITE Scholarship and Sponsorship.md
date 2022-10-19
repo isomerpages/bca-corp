@@ -377,3 +377,46 @@ NITEC in Interior and Exhibition Design (previously known as NITEC in Space Desi
 </table>
 
 
+
+Eligibility
+To be eligible for the scholarship, you must:
+
+Be a Singapore Citizen or Singapore Permanent Resident
+Have good academic GCE 'N', 'O' level or ITE results
+Have good CCA records 
+Conditions of Award
+A minimum 2-year bond duration is required.
+
+The bond must be served after graduation or completion of National Service, if applicable. 
+
+Application
+Application for the 2022 cycle has closed and this is the last cycle for the programmes.
+All programmes under iBuildSG Scholarship and Sponsorship will cease thereafter.
+
+Students interested in the BE sector may check with your school for relevant scholarship/ sponsorship. 
+
+Firms interested to sponsor students may either contact the relevant IHLs directly, or email to bca_industry_ite@bca.gov.sg to be link up with ITE.
+
+   
+Contact
+For any enquiries, please email us at BCA_Industry_ITE@bca.gov.sg or call 1800 3425222.
+
+List of approved built environment firms for recipients to serve bond in:
+BCA Directory of Registered Contractors & Licensed Builders (CRS and BLS) [excl. SY,FM 02-04 workheads]
+Singapore Contractors Association Limited (SCAL) members [excl. SLOTS]
+Public Sector Panels of Consultants (PSPC)
+Real Estate Developers' Association of Singapore (REDAS)
+Board of Architects (BOA)
+Association of Consulting Engineers Singapore (ACES)
+Singapore Institute of Architects (SIA)
+Singapore Institute of Surveyors and Valuers (SISV)
+Professional Engineers Board (PEB)
+Singapore International Facilities Management Association (SIFMA)
+Association of Property and Facility Managers (APFM)
+Singapore Green Building Council (SGBC)
+Singapore Institute of Building Limited (SIBL) [only enterprise members]
+Specialists Trade Alliance of Singapore (STAS)
+Employment update
+Recipients of the iBuildSG ITE Scholarship, please click here to update your employment status.
+
+ 
