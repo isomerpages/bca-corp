@@ -11,8 +11,9 @@ Through these programmes, graduates will enjoy opportunities to build on an exci
 The programme is structured in two stages:
 
 Stage 1 (Full-time Study) provides financial incentives during ITE study
-Stage 2 (Post-ITE Development) provides a clear progression path and attractive salary for ITE graduates*
-*Stage 2 is applicable for FY15 - FY20 cycle only. Terms and conditions apply.
+Stage 2 (Post-ITE Development) provides a clear progression path and attractive salary for ITE graduates
+
+Stage 2 is applicable for FY15 - FY20 cycle only. Terms and conditions apply.
 
 Note: iBuildSG scholarship and sponsorship programmes application for 2022 has closed and this is the last cycle for the programmes. All programmes under iBuildSG Scholarship and Sponsorship will cease thereafter.
 
@@ -24,7 +25,7 @@ Benefits
  Stage 1 (Full-time Study)
 
 $7,000 per annum
- Stage 2 (Post-ITE Development)**
+ Stage 2 (Post-ITE Development)
 
 Minimum basic monthly salary:
 1st year: $1,850
@@ -32,7 +33,8 @@ Minimum basic monthly salary:
 3rd year: $2,350
 On-the-job training
 Industry-recognised training
-**Stage 2 is applicable for FY15 - FY 20 cycle only. Terms and conditions apply.
+
+Stage 2 is applicable for FY15 - FY 20 cycle only. Terms and conditions apply.
 
 Tenable Institutions & Tenable ITE Courses
 Local ITE Colleges
@@ -50,90 +52,328 @@ NITEC in Mechanical Technology
 NITEC in Architectural Technology (previously known as NITEC in Space Design (Architecture))
 NITEC in Interior and Exhibition Design (previously known as NITEC in Space Design (Interior & Exhibition))
 
-### Industry Recognised Training Courses**
-
-
-Specialisation	Institution	Courses
-Building Information Modelling (BIM)	BCA Academy	Certification Course in BIM Modelling (Architecture Track)
-BCA Academy	Certification Course in BIM Modelling (MEP Track)
-BCA Academy	Certification Course in BIM Modelling (Structure Track)
-BCA Academy	Specialist Diploma in Building Information Modelling
-BCA Academy	Specialist Diploma in Computation BIM (Building)
-BCA Academy	Specialist Diploma in Computation BIM (Infrastructure)
-Institute of Technical Education	Certificate of Competency in Architectural BIM
-Institute of Technical Education	Certificate of Competency in Building Information Modelling – Engineering Graphics
-Institute of Technical Education	Certificate of Competency in Building Information Modelling – 3D Modelling
-Construction Supervision	BCA Academy	CoreTrade Supervisor Course (Architectural)
-BCA Academy	CoreTrade Supervisor Course (Mechanical & Electrical)
-BCA Academy	CoreTrade Supervisor Course (Structural)
-Architecture	BCA Academy	Specialist Diploma in Architectural Technology
-Institute of Technical Education	Any certificate from part-time Higher NITEC in Services – Architectural Technology
-Institute of Technical Education	Certificate of Competency in Architectural Detailing & Visualisation
-Institute of Technical Education	Certificate of Competency in Building Drawings & Submission
-Civil Engineering	Ngee Ann Polytechnic	Any certificate from part-time Diploma in Engineering (Civil & Structural)
-BCA Academy	Part-time Diploma in Construction Engineering
-BCA Academy	Specialist Diploma in Underground Construction
-Institute of Technical Education	Any certificate from part-time Higher NITEC in Technology – Civil & Structural Engineering Design
-Construction Management	BCA Academy	Specialist Diploma in Construction Management
-Electrical Engineering	BCA Academy	Part-time Diploma in Electrical Engineering & Clean Energy
-Ngee Ann Polytechnic	Any certificate from part-time Diploma in Engineering (Electrical)
-Singapore Polytechnic	Any certificate from part-time Diploma in Engineering (Power Engineering)
-Institute of Technical Education	Work-Study Diploma in Electrical Engineering
-Institute of Technical Education	Any certificate from part-time Higher NITEC in Technology - Electrical Engineering
-Institute of Technical Education	Any certificate from part-time NITEC in Technology - Electrical Technology (Power & Control)
-Institute of Technical Education	Certificate of Competency in Residential Wiring Maintenance
-Institute of Technical Education	Certificate of Competency in Electrical Switchboard Testing & Maintenance
-Institute of Technical Education	Certificate of Competency in Smart Home System (C-Bus)
-Institute of Technical Education	Certificate of Competency in Smart Home System (KNX)
-Institute of Technical Education	Certificate of Competency in Smart Home System (Voice Control)
-Institute of Technical Education	Certificate of Competency in Smart Home System (Z-Wave)
-Institute of Technical Education	Certificate of Competency in Intelligent Building Control System (KNX)
-Facility Management	BCA Academy	Specialist Diploma in Facility & Energy Management
-BCA Academy	Part-time Diploma in Facilities Management
-Ngee Ann Polytechnic	Any certificate from part-time Diploma in Engineering (Building Services & Fire Safety)
-Institute of Technical Education	Any certificate from part-time Higher NITEC in Technology - Facility Management
-Institute of Technical Education	Any certificate from part-time NITEC in Technology – Facility Technology (Air-Conditioning & Refrigeration)
-Institute of Technical Education	Certificate of Competency in Introduction to Digital Technology in Environment Services
-Institute of Technical Education	Certificate of Competency in Installation and Commissioning Air-Conditioning Systems (R32 Split Unit)
-Institute of Technical Education	Certificate of Competency in Maintenance of Air-Conditioning Systems (R410a Split Unit)
-Institute of Technical Education	Certificate of Competency in Plumbing Basics
-Institute of Technical Education	Certificate of Competency in Plumbing Maintenance
-Interior Design	Singapore Polytechnic	Any certificate from part-time Diploma in Design (Interior Design)
-BCA Academy	Specialist Diploma in Interior & Landscape Design
-Institute of Technical Education	Any certificate from part-time NITEC in Services – Interior & Exhibition Design
-Institute of Technical Education	Certificate of Competency in Interior Construction
-Institute of Technical Education	Certificate of Competency in Interior Applications
-Land Surveying	BCA Academy	Part-time Diploma in Geo-Spatial Information Technology
-Lift and Escalator Engineering	Institute of Technical Education	Any certificate from part-time NITEC in Technology - Built Environment (Vertical Transportation)
-Institute of Technical Education	Work-Study Diploma in Vertical Transportation
-Institute of Technical Education	Certificate of Competency in Lift Installer
-Institute of Technical Education	Certificate of Competency in Lift System & Equipment Maintenance
-Institute of Technical Education	Certificate of Competency in Lift Maintenance for Lift Specialist
-Mechanical Engineering	BCA Academy	Specialist Diploma in M&E Coordination
-Ngee Ann Polytechnic	Any certificate from part-time Diploma in Engineering (Mechanical)
-Ngee Ann Polytechnic	Any certificate from part-time Diploma in Engineering (Building Services & Fire Safety)
-Singapore Polytechnic	Any certificate from part-time Diploma in Engineering (Mechanical Technology)
-Institute of Technical Education	Any certificate from part-time Higher NITEC in Technology - Mechanical Engineering
-Institute of Technical Education	Any certificate from part-time Nitec in Technology – Built Environment (Mechanical & Electrical Services)
-Institute of Technical Education	Any certificate from part-time Nitec in Technology – Mechanical Technology
-Mechanical and Electrical Engineering	Institute of Technical Education	Work-Study Diploma in M&E Services Supervision
-Productivity	Institute of Technical Education	Any certificate from part-time Higher Nitec in Technology – Mechatronics Engineering
-Institute of Technical Education	Any certificate from part-time Higher Nitec in Technology - Robotics & Smart systems
-Institute of Technical Education	Any certificate from part-time Nitec in Technology - Mechatronics & Robotics
-Institute of Technical Education	Work-Study Diploma in Automation Engineering
-BCA Academy	Specialist Diploma in MEP Modularisation
-BCA Academy	Specialist Diploma in Construction Productivity
-BCA Academy	Specialist Diploma in Design for Manufacturing & Assembly
-BCA Academy	Specialist Diploma in Lean Construction
-BCA Academy	Specialist Diploma in Virtual Design & Construction
-Quantity Surveying	Singapore Polytechnic	Any certificate from part-time Diploma in Quantity Surveying (Measurement & Contract Administration)
-BCA Academy	Specialist Diploma in Building Cost Management
-Eligibility
+### Industry Recognised Training Courses
 
 
 
-
-
-
+<table>
+    <tbody>
+        <tr>
+            <th>Specialisation</th>
+            <th>Institution</th>
+            <th>Courses</th>
+        </tr>
+        <tr>
+            <td rowspan="9">Building Information Modelling (BIM)</td>
+            <td>BCA Academy</td>
+            <td>Certification Course in BIM Modelling (Architecture Track)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Certification Course in BIM Modelling (MEP Track)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Certification Course in BIM Modelling (Structure Track)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Building Information Modelling</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Computation BIM (Building)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Computation BIM (Infrastructure)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Architectural BIM</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Building Information Modelling – Engineering Graphics</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Building Information Modelling – 3D Modelling</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Construction Supervision</td>
+            <td>BCA Academy</td>
+            <td>CoreTrade Supervisor Course (Architectural)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>CoreTrade Supervisor Course (Mechanical &amp; Electrical)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>CoreTrade Supervisor Course (Structural)</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Architecture</td>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Architectural Technology</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Higher NITEC in Services – Architectural Technology</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Architectural Detailing &amp; Visualisation</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Building Drawings &amp; Submission</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Civil Engineering</td>
+            <td>Ngee Ann Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Engineering (Civil &amp; Structural)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Part-time Diploma in Construction Engineering</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Underground Construction</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Higher NITEC in Technology – Civil &amp; Structural Engineering Design</td>
+        </tr>
+        <tr>
+            <td>Construction Management</td>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Construction Management</td>
+        </tr>
+        <tr>
+            <td rowspan="13">Electrical Engineering</td>
+            <td>BCA Academy</td>
+            <td>Part-time Diploma in Electrical Engineering &amp; Clean Energy</td>
+        </tr>
+        <tr>
+            <td>Ngee Ann Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Engineering (Electrical)</td>
+        </tr>
+        <tr>
+            <td>Singapore Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Engineering (Power Engineering)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Work-Study Diploma in Electrical Engineering</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Higher NITEC in Technology - Electrical Engineering</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time NITEC in Technology - Electrical Technology (Power &amp; Control)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Residential Wiring Maintenance</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Electrical Switchboard Testing &amp; Maintenance</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Smart Home System (C-Bus)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Smart Home System (KNX)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Smart Home System (Voice Control)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Smart Home System (Z-Wave)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Intelligent Building Control System (KNX)</td>
+        </tr>
+        <tr>
+            <td rowspan="10">Facility Management</td>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Facility &amp; Energy Management</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Part-time Diploma in Facilities Management</td>
+        </tr>
+        <tr>
+            <td>Ngee Ann Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Engineering (Building Services &amp; Fire Safety)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Higher NITEC in Technology - Facility Management</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time NITEC in Technology – Facility Technology (Air-Conditioning &amp; Refrigeration)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Introduction to Digital Technology in Environment Services</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Installation and Commissioning Air-Conditioning Systems (R32 Split Unit)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Maintenance of Air-Conditioning Systems (R410a Split Unit)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Plumbing Basics</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Plumbing Maintenance</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Interior Design</td>
+            <td>Singapore Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Design (Interior Design)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Interior &amp; Landscape Design</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time NITEC in Services – Interior &amp; Exhibition Design</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Interior Construction</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Interior Applications</td>
+        </tr>
+        <tr>
+            <td>Land Surveying</td>
+            <td>BCA Academy</td>
+            <td>Part-time Diploma in Geo-Spatial Information Technology</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Lift and Escalator Engineering</td>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time NITEC in Technology - Built Environment (Vertical Transportation)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Work-Study Diploma in Vertical Transportation</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Lift Installer</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Lift System &amp; Equipment Maintenance</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Certificate of Competency in Lift Maintenance for Lift Specialist</td>
+        </tr>
+        <tr>
+            <td rowspan="7">Mechanical Engineering</td>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in M&amp;E Coordination</td>
+        </tr>
+        <tr>
+            <td>Ngee Ann Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Engineering (Mechanical)</td>
+        </tr>
+        <tr>
+            <td>Ngee Ann Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Engineering (Building Services &amp; Fire Safety)</td>
+        </tr>
+        <tr>
+            <td>Singapore Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Engineering (Mechanical Technology)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Higher NITEC in Technology - Mechanical Engineering</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Nitec in Technology – Built Environment (Mechanical &amp; Electrical Services)</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Nitec in Technology – Mechanical Technology</td>
+        </tr>
+        <tr>
+            <td>Mechanical and Electrical Engineering</td>
+            <td>Institute of Technical Education</td>
+            <td>Work-Study Diploma in M&amp;E Services Supervision</td>
+        </tr>
+        <tr>
+            <td rowspan="9">Productivity</td>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Higher Nitec in Technology – Mechatronics Engineering</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Higher Nitec in Technology - Robotics &amp; Smart systems</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Any certificate from part-time Nitec in Technology - Mechatronics &amp; Robotics</td>
+        </tr>
+        <tr>
+            <td>Institute of Technical Education</td>
+            <td>Work-Study Diploma in Automation Engineering</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in MEP Modularisation</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Construction Productivity</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Design for Manufacturing &amp; Assembly</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Lean Construction</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Virtual Design &amp; Construction</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Quantity Surveying</td>
+            <td>Singapore Polytechnic</td>
+            <td>Any certificate from part-time Diploma in Quantity Surveying (Measurement &amp; Contract Administration)</td>
+        </tr>
+        <tr>
+            <td>BCA Academy</td>
+            <td>Specialist Diploma in Building Cost Management</td>
+        </tr>
+    </tbody>
+</table>
 
 
