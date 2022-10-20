@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Public.md
-      - Students/BCA Industry ITE Scholarship and Sponsorship.md
-      - Students/.keep
       - Homeowners/Air Con Safety.md
       - Homeowners/Windows Safety.md
       - Homeowners/.keep
