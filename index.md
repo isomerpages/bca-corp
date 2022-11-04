@@ -27,8 +27,8 @@ sections:
           description: ""
           url: https://www1.bca.gov.sg/about-us/news-and-publications/publications-reports/guidebooks
   - resources:
-      title: BuildSG Magazine
-      subtitle: Resources
+      title: News and Publications
+      subtitle: News Room
   - infopic:
       title: e-Services
       subtitle: Popular e-services
