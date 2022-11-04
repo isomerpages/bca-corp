@@ -10,7 +10,7 @@ sections:
       title: Building and Construction Authority
       subtitle: We champion the development and transformation of the built
         environment sector,  in order to improve Singapore’s living environment
-      background: /images/hero-banner.png
+      background: /images/bca-banner-hero-image.jpg
       button: Contact Us
       url: LEARN MORE
       key_highlights:
