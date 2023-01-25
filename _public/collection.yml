@@ -1,4 +1,5 @@
 collections:
   public:
     output: true
-    order: []
+    order:
+      - Private Property Owners/.keep
