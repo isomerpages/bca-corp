@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Resources/.keep
-      - Example Title.md
       - Private Property Owners/Condominiums.md
       - Private Property Owners/.keep
