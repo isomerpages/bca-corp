@@ -2,4 +2,5 @@ collections:
   public-privatepropertyowners:
     output: true
     order:
+      - Condominiums/test Before Owning a Condo What to Know.md
       - Condominiums/.keep
