@@ -13,5 +13,12 @@ links:
     resource_room: true
   - title: Feedback to Us
     url: https://www.bca.gov.sg/feedbackform/
-  - title: Publictest2
-    collection: publictest2
+  - title: Public-submenu
+    url: /public-submenu
+    sublinks:
+      - title: Private Property Ownership
+        url: /privatepropertyownership
+      - title: Resources & Tips
+        url: /resourcesandtips
+      - title: Learn about our BE
+        url: /learn
