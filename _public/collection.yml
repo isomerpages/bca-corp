@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Public.md
-      - General Public.md
