@@ -2,6 +2,7 @@ collections:
   public:
     output: true
     order:
+      - Private Property Owner/Condominiums.md
       - Private Property Owner/Private Property Owners.md
       - Private Property Owner/.keep
       - Learn About the Built Environment.md
