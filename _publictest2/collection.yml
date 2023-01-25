@@ -1,5 +1,5 @@
 collections:
-  public:
+  publictest2:
     output: true
     order:
       - Resources/.keep
