@@ -9,8 +9,6 @@ links:
         url: https://www1.bca.gov.sg/regulatory-info/building-control
   - title: Industry info
     url: https://www1.bca.gov.sg/buildsg/buildsg-movement
-  - title: Procurement
-    collection: procurement
   - title: BuildSG
     resource_room: true
   - title: Feedback to Us
