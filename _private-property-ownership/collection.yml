@@ -1,4 +1,5 @@
 collections:
   private-property-ownership:
     output: true
-    order: []
+    order:
+      - Condominiums/.keep
