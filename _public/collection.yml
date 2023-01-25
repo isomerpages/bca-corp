@@ -2,6 +2,7 @@ collections:
   public:
     output: true
     order:
+      - Example Title.md
       - Resources.md
       - Private Property Owners/Condominiums.md
       - Private Property Owners/.keep
