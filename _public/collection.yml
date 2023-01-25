@@ -3,8 +3,4 @@ collections:
     output: true
     order:
       - Public.md
-      - Homeowners/Renovation for Homeowners.md
-      - Homeowners/Air Con Safety.md
-      - Homeowners/Windows Safety.md
-      - Homeowners/.keep
       - General Public.md
