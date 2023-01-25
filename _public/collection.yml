@@ -1,4 +1,4 @@
 collections:
-  private-property-owners:
+  public:
     output: true
     order: []
