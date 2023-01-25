@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Resources/.keep
-      - "Private Property Owners/Before Owning a Condo: What to Know.md"
       - Private Property Owners/Condominiums.md
       - Private Property Owners/.keep
