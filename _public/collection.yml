@@ -2,4 +2,5 @@ collections:
   public:
     output: true
     order:
+      - Resources.md
       - Private Property Owners/.keep
