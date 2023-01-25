@@ -2,6 +2,7 @@ collections:
   publictest2:
     output: true
     order:
+      - Condo2.md
       - Resources/.keep
       - Private Property Owners/Condominiums.md
       - Private Property Owners/.keep
