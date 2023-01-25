@@ -2,5 +2,4 @@ collections:
   public:
     output: true
     order:
-      - Learn About the Built Environment.md
       - Resources.md
