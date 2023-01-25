@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Resources.md
+      - Private Property Owners/Condominiums.md
       - Private Property Owners/.keep
