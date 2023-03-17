@@ -2,4 +2,5 @@ collections:
   folder-level-1b:
     output: true
     order:
+      - Subfolder level 2b/Page b.md
       - Subfolder level 2b/.keep
