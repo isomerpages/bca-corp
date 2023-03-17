@@ -2,4 +2,5 @@ collections:
   folder-level-1:
     output: true
     order:
+      - Sub folder 1/.keep
       - Page 1.md
