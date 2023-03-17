@@ -1,4 +1,5 @@
 collections:
   private-properties-owners:
     output: true
-    order: []
+    order:
+      - Condominiums??.md
