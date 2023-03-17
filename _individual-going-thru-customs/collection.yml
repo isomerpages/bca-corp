@@ -1,4 +1,5 @@
 collections:
   individual-going-thru-customs:
     output: true
-    order: []
+    order:
+      - Arrivals/.keep
