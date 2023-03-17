@@ -1,0 +1,4 @@
+collections:
+  condominiums:
+    output: true
+    order: []
