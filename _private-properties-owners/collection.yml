@@ -1,7 +1,0 @@
-collections:
-  private-properties-owners:
-    output: true
-    order:
-      - "Condominiums/Before Owning a Condo: What to Know.md"
-      - Condominiums/.keep
-      - Condominiums??.md
