@@ -1,4 +1,5 @@
 collections:
   condominiums:
     output: true
-    order: []
+    order:
+      - Before Owning a Condo Guide/.keep
