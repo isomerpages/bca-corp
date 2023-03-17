@@ -1,4 +1,5 @@
 collections:
   folder-level-1b:
     output: true
-    order: []
+    order:
+      - Subfolder level 2b/.keep
