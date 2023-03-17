@@ -2,5 +2,6 @@ collections:
   public-privatepropertyowners:
     output: true
     order:
+      - "Condominiums/Before Owning a Condo: What to Know.md"
       - "Condominiums/Before Owning a Condo: Checklists and Tips.md"
       - Condominiums/.keep
