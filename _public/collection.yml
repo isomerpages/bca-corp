@@ -2,5 +2,5 @@ collections:
   public:
     output: true
     order:
-      - Private Property Owner/Example Title.md
-      - Private Property Owner/.keep
+      - Private Property Owners/Example Title.md
+      - Private Property Owners/.keep
