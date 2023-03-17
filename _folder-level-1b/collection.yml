@@ -1,6 +1,0 @@
-collections:
-  folder-level-1b:
-    output: true
-    order:
-      - Sub folder 1/Page b.md
-      - Sub folder 1/.keep
