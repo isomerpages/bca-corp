@@ -2,8 +2,8 @@ collections:
   public-private-property-owner:
     output: true
     order:
-      - MCSTs/MCSTs.md
-      - MCSTs/.keep
+      - Renovation for Pte Property/MCSTs.md
+      - Renovation for Pte Property/.keep
       - Landed Homes/.keep
       - "Condominiums/Quality Homes: A Homeowner's Guide.md"
       - Condominiums/MCSTs.md
