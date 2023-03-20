@@ -2,5 +2,6 @@ collections:
   public-private-property-owner:
     output: true
     order:
+      - "Condominiums/Before Buying A Condo: What to Know.md"
       - Condominiums/Condominiums.md
       - Condominiums/.keep
