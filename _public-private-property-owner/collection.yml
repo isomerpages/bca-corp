@@ -2,6 +2,8 @@ collections:
   public-private-property-owner:
     output: true
     order:
+      - "Condominiums/Before Buying a Condo: Responsibilities of all Condo
+        Owners.md"
       - "Condominiums/Before Buying A Condo: What to Know.md"
       - "Condominiums/Before Buying A Condo: Basics of Condo Living.md"
       - Condominiums/.keep
