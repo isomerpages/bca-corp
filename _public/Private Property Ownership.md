@@ -3,7 +3,8 @@ title: Private Property Ownership
 permalink: /public/private-property-ownership/permalink/
 description: ""
 ---
-Are you intending to renovate, reconstruct or make additions and alterations to your landed home?    
-Find out what is the [approval process for such works](https://safe.menlosecurity.com/https://www1-bca-gov-sg.cwp-stg.sg/public/private-property-ownership/renovation-and-maintenance-for-private-homes) and what are some [minor works that are exempted](https://safe.menlosecurity.com/https://www1-bca-gov-sg.cwp-stg.sg/public/private-property-ownership/renovation-and-maintenance-for-private-homes/renovation-for-landed-property/exemptions-for-building-works-in-landed-homes-that-require-plan-submission-to-bca) from this requirement.   
+Are you a homeowner, a commercial property owner or are you looking to purchase a private property such as a condominium?  
   
-Check out tips on the "dos and donts" when carrying out building works in your home [here](https://safe.menlosecurity.com/https://www1.bca.gov.sg/public/homeowners/renovation-for-homes/be-good-neighbours-guide).
+Find information from guide to living in a condominium to tips on renovation and maintenance for private properties. 
+
+Living in private housing also means that disputes encountered are private affairs. Find out what are the means to resolve common issues or disputes encountered by private property residents [here](www1.bca.gov.sg).
