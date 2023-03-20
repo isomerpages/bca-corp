@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - "Condominiums/Before Buying A Condo: What to Know.md"
-      - Condominiums/Condominiums.md
+      - "Condominiums/Before Buying A Condo: Basics of Condo Living.md"
       - Condominiums/.keep
