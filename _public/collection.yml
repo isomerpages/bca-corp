@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Private Property Ownership.md
-      - Private Property Owners/Example Title.md
-      - Private Property Owners/.keep
