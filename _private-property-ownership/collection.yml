@@ -1,5 +1,5 @@
 collections:
-  private-property-owner:
+  private-property-ownership:
     output: true
     order:
       - "Condominiums/Before Owning a Condo: Responsibilities of All Owners.md"
