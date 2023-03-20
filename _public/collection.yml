@@ -2,5 +2,6 @@ collections:
   public:
     output: true
     order:
+      - Resources.md
       - Learn about our Built Environment.md
       - Private Property Ownership.md
