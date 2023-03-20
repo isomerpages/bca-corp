@@ -2,4 +2,5 @@ collections:
   public-private-property-owner:
     output: true
     order:
+      - Condominiums/Condominiums.md
       - Condominiums/.keep
