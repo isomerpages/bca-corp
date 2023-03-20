@@ -2,7 +2,7 @@ collections:
   public-private-property-owner:
     output: true
     order:
-      - Resources/.keep
+      - Landed Homes/.keep
       - "Condominiums/Quality Homes: A Homeowner's Guide.md"
       - Condominiums/MCSTs.md
       - "Condominiums/Before Buying a Condo: Checklists & Tips.md"
