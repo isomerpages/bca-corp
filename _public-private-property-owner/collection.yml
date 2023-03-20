@@ -2,6 +2,7 @@ collections:
   public-private-property-owner:
     output: true
     order:
+      - MCSTs/MCSTs.md
       - MCSTs/.keep
       - Landed Homes/.keep
       - "Condominiums/Quality Homes: A Homeowner's Guide.md"
