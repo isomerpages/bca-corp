@@ -1,9 +1,4 @@
 collections:
   private-property-ownership:
     output: true
-    order:
-      - "Condominiums/Before Owning a Condo: Responsibilities of All Owners.md"
-      - "Condominiums/Before Owning a Condo: Basics of Condo Living.md"
-      - "Condominiums/Before Owning a Condo: What to Know.md"
-      - "Condominiums/Before Owning a Condo: Checklists and Tips.md"
-      - Condominiums/.keep
+    order: []
