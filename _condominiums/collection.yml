@@ -1,8 +1,0 @@
-collections:
-  condominiums:
-    output: true
-    order:
-      - What to know as a Condo Owner/.keep
-      - What to know as a Condo Owner/Checklists and Tips.md
-      - What to know as a Condo Owner/4 Things to Know.md
-      - Before Owning a Condo Guide/.keep
