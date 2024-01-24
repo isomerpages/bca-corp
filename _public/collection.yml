@@ -1,0 +1,7 @@
+collections:
+  public:
+    output: true
+    order:
+      - Private Property Ownership.md
+      - Resources.md
+      - Learn about our Built Environment.md

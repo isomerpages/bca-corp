@@ -1,0 +1,26 @@
+logo: /images/bcalogo.png
+links:
+  - title: Regulatory Info
+    url: https://www1.bca.gov.sg/regulatory-info/amusement-rides
+    sublinks:
+      - title: Amusement Rides
+        url: https://www1.bca.gov.sg/regulatory-info/amusement-rides
+      - title: Building Control
+        url: https://www1.bca.gov.sg/regulatory-info/building-control
+  - title: Industry info
+    url: https://www1.bca.gov.sg/buildsg/buildsg-movement
+  - title: BuildSG
+    resource_room: true
+  - title: Feedback to Us
+    url: https://www.bca.gov.sg/feedbackform/
+  - title: Public
+    url: /public
+    sublinks:
+      - title: Private Property Ownership
+        url: /public/private-property-ownership/permalink/
+      - title: Resources & Tips
+        url: /public-resources/permalink/
+      - title: Learn about our BE
+        url: /public/learn-about-our-be-permalink/
+  - title: Individuals
+    collection: individuals

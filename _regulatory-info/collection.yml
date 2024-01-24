@@ -1,0 +1,4 @@
+collections:
+  regulatory-info:
+    output: true
+    order: []

@@ -1,0 +1,6 @@
+collections:
+  individual-going-thru-customs:
+    output: true
+    order:
+      - Arrivals/Duty Free.md
+      - Arrivals/.keep
