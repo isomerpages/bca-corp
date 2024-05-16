@@ -1,0 +1,4 @@
+collections:
+  graduation:
+    output: true
+    order: []
