@@ -1,4 +1,5 @@
 collections:
   graduation:
     output: true
-    order: []
+    order:
+      - Graduation 2024.md
