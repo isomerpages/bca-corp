@@ -2,6 +2,7 @@ collections:
   graduation:
     output: true
     order:
+      - page 22.md
       - Page1.md
       - Folder1/.keep
       - GRAD MAIN/page 2.md
