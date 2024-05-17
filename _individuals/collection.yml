@@ -1,0 +1,6 @@
+collections:
+  individuals:
+    output: true
+    order:
+      - Going Through Customs/Arrivals.md
+      - Going Through Customs/.keep

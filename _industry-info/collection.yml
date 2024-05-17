@@ -1,0 +1,4 @@
+collections:
+  industry-info:
+    output: true
+    order: []

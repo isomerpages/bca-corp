@@ -1,0 +1,15 @@
+collections:
+  public-private-property-owner:
+    output: true
+    order:
+      - Renovation for Pte Property/MCSTs.md
+      - Renovation for Pte Property/.keep
+      - Landed Homes/.keep
+      - "Condominiums/Quality Homes: A Homeowner's Guide.md"
+      - Condominiums/MCSTs.md
+      - "Condominiums/Before Buying a Condo: Checklists & Tips.md"
+      - "Condominiums/Before Buying a Condo: Responsibilities of all Condo
+        Owners.md"
+      - "Condominiums/Before Buying a Condo: What to Know.md"
+      - "Condominiums/Before Buying a Condo: Basics of Condo Living.md"
+      - Condominiums/.keep

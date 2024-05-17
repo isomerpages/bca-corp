@@ -1,0 +1,10 @@
+collections:
+  graduation:
+    output: true
+    order:
+      - Page1.md
+      - page 22.md
+      - Folder1/.keep
+      - GRAD MAIN/.keep
+      - GRAD MAIN/page 2.md
+      - GRAD MAIN/BCAA Graduation Ceremony.md
