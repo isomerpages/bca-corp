@@ -40,9 +40,13 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>dsadasd</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>rgrgr</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WFrhE9b01wg?si=NIhPhkLFvsObHNQX"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -53,9 +57,6 @@ description: ""
 </details>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WFrhE9b01wg?si=CpJwr1jlPNaxzyKo"></iframe>
-</div>
 <p></p>
 <p></p>
 <p></p>
