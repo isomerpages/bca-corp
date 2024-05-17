@@ -2,4 +2,5 @@ collections:
   graduation:
     output: true
     order:
+      - BEFORE GRADUATION DAY/.keep
       - BCAA Graduation Ceremony.md
