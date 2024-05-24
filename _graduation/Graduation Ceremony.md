@@ -13,7 +13,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_06_28_123655.png">
 </div>
 <p></p>
-<h4>BCA Academy will be holding the Graduation Ceremony on </h4>
+<h4>BCA Academy will be holding the Graduation Ceremony on</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -62,7 +62,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,15 +79,11 @@ description: ""
 <p>For graduation queries:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[diploma]&nbsp;
-<br><a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a>
+<p>[diploma]&nbsp;<a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a>
 </p>
 </li>
 <li>
-<p>[specialist diploma]&nbsp;</p>
-</li>
-<li>
-<p><a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a>
+<p>[specialist diploma]&nbsp;<a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a>
 </p>
 </li>
 </ul>
@@ -95,19 +91,17 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/n55.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/n55.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/124de3d1b5e12f1d8fcec1685e634361.gif">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/124de3d1b5e12f1d8fcec1685e634361.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
