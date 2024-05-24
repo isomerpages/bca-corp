@@ -74,11 +74,11 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>[diploma]&nbsp;
-<br> <a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a> 
+<br><a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a>
 </p>
 </li>
 <li>
-<p>[specialist diploma]&nbsp; <a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a> 
+<p>[specialist diploma]&nbsp; <a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a>
 </p>
 </li>
 </ul>
