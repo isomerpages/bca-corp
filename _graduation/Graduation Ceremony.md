@@ -46,7 +46,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Graduands and guests are advised to take public transport on the event day due to limited parking spaces at BCA Braddell Campus. Refer to <a href="https://www.bcaa.edu.sg/you-are/a-visitor/getting-to-bca-academy" rel="noopener noreferrer nofollow" target="_blank">link</a> on getting to the campus.</h4>
+<h4>Graduands and guests are advised to take public transport on the event day due to limited parking spaces at BCA Braddell Campus. <br>Refer to <a href="https://www.bcaa.edu.sg/you-are/a-visitor/getting-to-bca-academy" rel="noopener noreferrer nofollow" target="_blank">link</a> on getting to the campus.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
