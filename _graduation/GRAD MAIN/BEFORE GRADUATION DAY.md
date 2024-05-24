@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: GRAD MAIN
 ---
+<h4><strong>BEFORE GRADUATION DAY </strong></h4>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Registration of Attendance at Graduation Ceremony</summary>
