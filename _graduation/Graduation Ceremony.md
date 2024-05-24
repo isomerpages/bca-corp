@@ -48,11 +48,57 @@ description: ""
 </tbody>
 </table>
 <hr>
-<p>Graduands and guests are advised to take public transport on the event
-day due to limited parking spaces at BCA Braddell Campus. Refer to <a href="https://www.bcaa.edu.sg/you-are/a-visitor/getting-to-bca-academy" rel="noopener noreferrer nofollow" target="_blank">link</a> on
-getting to the campus.</p>
+<h4>Graduands and guests are advised to take public transport on the event day due to limited parking spaces at BCA Braddell Campus. Refer to <a href="https://www.bcaa.edu.sg/you-are/a-visitor/getting-to-bca-academy" rel="noopener noreferrer nofollow" target="_blank">link</a> on getting to the campus.</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Click here for the FAQ. For graduatuin queries:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>[diploma]&nbsp;
+<br> <a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a> 
+</p>
+</li>
+<li>
+<p>[specialist diploma]&nbsp; <a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a> 
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/faqq.png">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/n55.png">
 </div>
