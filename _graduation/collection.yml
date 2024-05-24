@@ -2,7 +2,7 @@ collections:
   graduation:
     output: true
     order:
-      - Graduation Ceremony.md
+      - GRADUATION CEREMONY.md
       - Congratulatory Messages.md
       - Folder1/.keep
       - GRAD MAIN/.keep
