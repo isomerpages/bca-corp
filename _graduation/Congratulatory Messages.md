@@ -10,7 +10,7 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
