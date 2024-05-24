@@ -59,9 +59,18 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/faqq.png">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>For graduation queries:</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>[diploma]&nbsp;<a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a>
@@ -72,12 +81,6 @@ description: ""
 </p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/faqq.png">
-</div>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -90,8 +93,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
