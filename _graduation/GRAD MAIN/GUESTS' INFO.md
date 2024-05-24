@@ -5,23 +5,41 @@ variant: tiptap
 description: BCA Academy Graduation
 third_nav_title: GRAD MAIN
 ---
+<h4><strong>GUESTS' INFO</strong></h4>
+<p></p>
+<p></p>
+<p><strong><u>REGISTRATION</u></strong>
+</p>
+<p>Upon arrival, all guests, accompanied by the respective graduands, are
+to proceed to NEXUS (Blk D Level 7) between 12.30 to 1.30 pm.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Upon registration, every guest will be given a guest admission ticket.</p>
+</li>
+<li>
+<p>Misplaced admission tickets WILL NOT be replaced nor re-issued. Admission
+tickets are non-transferrable.&nbsp;</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Grad_Ceremony_2023_final_R2.jpg">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_06_28_123655.png">
-</div>
-<p></p>
-<hr>
-<h4>BCA Academy will be holding the Graduation Ceremony on<br></h4>
-<h4><strong>MONDAY 18 NOVEMBER 2024<br>BCA Braddell Campus</strong></h4>
-<p></p>
-<h5>The annual Graduation Ceremony is a grand event, where BCAA graduands are presented with their scrolls and awards<a href="https://lms.bcaa.edu.sg/mod/hvp/view.php?id=96290" class="autolink" rel="noopener noreferrer nofollow" target="_blank">.</a> It is also an opportunity to celebrate your achievements, and to look back on the memorable times you have spent with us. Many of our past graduates have found the graduation ceremony a memorable occasion. We hope that you too will find the celebrations enjoyable.</h5>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_07_10_145634.png">
-</div>
+<p><strong><u>ADMISSION TO HALL</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Admission to the Hall will be strictly controlled and permitted only with
+valid guest admission tickets. One admission ticket admits one guest only.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Guests are to be seated within the designated sections and marshals will
+be on site for guidance. Guests are not permitted to enter the seating
+rows/sections for graduands.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Guests must remain seated throughout the Graduation Ceremony, and refrain
+from standing up to avoid obstructing other audience and the proceedings.&nbsp;&nbsp;</p>
+</li>
+</ul>
 <p></p>
