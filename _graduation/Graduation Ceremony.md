@@ -70,7 +70,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click here for the FAQ. For graduatuin queries:</p>
+<p>Click here for the FAQ. For graduation queries:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>[diploma]&nbsp;
