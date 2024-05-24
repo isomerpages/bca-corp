@@ -13,8 +13,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_06_28_123655.png">
 </div>
 <p></p>
-<hr>
-<h4>BCA Academy will be holding the Graduation Ceremony on <br></h4>
+<h4>BCA Academy will be holding the Graduation Ceremony on </h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -47,11 +46,10 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
 <h4>Graduands and guests are advised to take public transport on the event day due to limited parking spaces at BCA Braddell Campus. Refer to <a href="https://www.bcaa.edu.sg/you-are/a-visitor/getting-to-bca-academy" rel="noopener noreferrer nofollow" target="_blank">link</a> on getting to the campus.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <hr>
 <table style="minWidth: 50px">
@@ -63,14 +61,22 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/faqq.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click here for the FAQ. For graduation queries:</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For graduation queries:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>[diploma]&nbsp;
@@ -78,16 +84,13 @@ description: ""
 </p>
 </li>
 <li>
-<p>[specialist diploma]&nbsp; <a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a>
+<p>[specialist diploma]&nbsp;</p>
+</li>
+<li>
+<p><a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a>
 </p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/faqq.png">
-</div>
-<p></p>
 </td>
 </tr>
 </tbody>
