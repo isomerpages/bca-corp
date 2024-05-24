@@ -21,7 +21,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>BCAA</strong>
+<p><strong>BCAA Management</strong>
 </p>
 </td>
 </tr>
@@ -70,7 +70,5 @@ description: ""
 </table>
 <p></p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="215" width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WFrhE9b01wg?si=trQw3kX4zMgHG95v"></iframe>
-</div>
+<p></p>
 <p></p>
