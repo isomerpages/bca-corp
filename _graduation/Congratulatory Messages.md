@@ -26,33 +26,23 @@ description: ""
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="180" width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
-</div>
-<p>AR LEONG-KOK Su-Ming (Managing Dir, BCAA)</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="180" width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
-</div>
-<p>May Siu (Dir, School of Academic &amp; Continuing Education)</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="180" width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="180" width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+</div>
+<p>AR Leong-Kok Su-Ming (Managing Dir, BCAA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="180" width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+</div>
+<p>May Siu (Dir, Sch of Academic &amp; Continuing Edu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="180" width="260" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+</div>
+<p>Lim Yaw Shyan (Deputy Dir, Sch of Academic &amp; Continuing Edu)</p>
 </td>
 </tr>
 <tr>
