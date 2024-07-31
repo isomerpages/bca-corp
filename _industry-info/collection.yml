@@ -2,4 +2,5 @@ collections:
   industry-info:
     output: true
     order:
+      - Test L3/Test L3.md
       - Test L3/.keep
