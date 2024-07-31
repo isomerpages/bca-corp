@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Test L3/.keep
-      - Test L3.md
