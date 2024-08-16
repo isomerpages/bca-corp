@@ -78,8 +78,12 @@ this.</p>
 <p><a href="/files/Case Studies/Circular_on_Cessation_of_BSCQ.pdf" rel="noopener noreferrer nofollow" target="_blank">Circular on Cessation of BSCQ</a>
 </p>
 <p>Test table</p>
-<table style="minWidth: 150px">
+<table style="minWidth: 250px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -89,50 +93,24 @@ this.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>1</strong>
-</p>
+<td rowspan="1" colspan="7">
+<p>70% column</p>
+<p>This is a 70% column lorem ipsum This is a 70% column lorem ipsum This
+is a 70% column lorem ipsum This is a 70% column lorem ipsum This is a
+70% column lorem ipsum This is a 70% column lorem ipsum This is a 70% column
+lorem ipsum</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="IBEW" src="/images/p1.png">
+</div>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>6</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>a</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>b</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>c</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>d</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>e</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>f</p>
-</td>
+<th rowspan="1" colspan="3">
+<p>30% column</p>
+<p>This is a 70% column lorem ipsum</p>
+<p>This is a 70% column lorem ipsum</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="IBEW" src="/images/p1.png">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
