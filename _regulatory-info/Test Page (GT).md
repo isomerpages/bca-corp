@@ -70,5 +70,128 @@ description: ""
 </div>
 </details>
 </div>
+<p>Add a footnote<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> for
+this.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="IBEW" src="/images/p1.png">
+</div>
+<p><a href="/files/Case Studies/Circular_on_Cessation_of_BSCQ.pdf" rel="noopener noreferrer nofollow" target="_blank">Circular on Cessation of BSCQ</a>
+</p>
+<p>Test table</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>a</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>b</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>c</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>d</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>e</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>f</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Test UL</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A1</p>
+</li>
+<li>
+<p>A2</p>
+</li>
+</ul>
+</li>
+<li>
+<p>B</p>
+</li>
+<li>
+<p>C</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>Test OL</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>X</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>AS</p>
+</li>
+<li>
+<p>AS</p>
+</li>
+<li>
+<p>AS</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Y</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>asa</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Z</p>
+</li>
+</ol>
 <p></p>
+<p>&nbsp;</p>
+<p>
+<br>
+</p>
+<hr>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> This
+is a footnote</p>
 <p></p>
