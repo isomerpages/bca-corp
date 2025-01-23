@@ -4,31 +4,38 @@ title: BCA Corp
 description: BCA Corporate website
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Building and Construction Authority
       subtitle: We champion the development and transformation of the built
         environment sector,  in order to improve Singapore’s living environment
       background: /images/bca-banner-hero-image.jpg
-      button: Contact Us
-      url: LEARN MORE
       key_highlights:
+        - title: Find Info
+          description: ""
+          url: https://www1.bca.gov.sg/buildsg/built-environment-industry-transformation-map
+        - title: Application Process
+          description: ""
+          url: https://www1.bca.gov.sg/buildsg/bca-awards
+        - title: Private Property Owner
+          description: ""
+          url: https://www1.bca.gov.sg/about-us/news-and-publications/publications-reports/guidebooks
         - title: e-Services
           description: ""
           url: https://www1.bca.gov.sg/e-services
-        - title: Built Environment Industry Transformation Map (ITM)
-          description: ""
-          url: https://www1.bca.gov.sg/buildsg/built-environment-industry-transformation-map
-        - title: BCA Awards
-          description: ""
-          url: https://www1.bca.gov.sg/buildsg/bca-awards
-        - title: Guidebooks
-          description: ""
-          url: https://www1.bca.gov.sg/about-us/news-and-publications/publications-reports/guidebooks
-  - resources:
-      title: News and Publications
-      subtitle: News Room
+  - textcards:
+      title: BCA Highlights
+      id: textcards
+      cards:
+        - title: 2024/2025 Annual Report
+          description: Card description
+          linktext: Read Annual Report
+          url: ""
+        - title: Changes to G2B Login
+          description: Card description
+          linktext: Learn Aboute G2B Login
+          url: ""
   - infopic:
       title: e-Services
       subtitle: Popular e-services
@@ -39,10 +46,13 @@ sections:
       image: /images/Homepage/crws1.png
   - infopic:
       title: e-Services
-      subtitle: Popular e-services
+      subtitle: Supporting your business needs
       description: Building Management and Strata Management (BMSM)
       button: Transact with US
       url: https://www.bca.gov.sg/bmsm_eservice/
       image: /images/Homepage/bmsm1.png
       alt: BMSM
+  - resources:
+      title: News and Publications
+      subtitle: News Room
 ---
