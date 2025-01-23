@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: BCA Corp
+title: Building and Construction Authority (BCA)
 description: BCA Corporate website
 image: /images/isomer-logo.svg
 permalink: /
